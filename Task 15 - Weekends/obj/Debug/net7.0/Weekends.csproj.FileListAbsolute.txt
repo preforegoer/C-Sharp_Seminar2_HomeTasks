@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C-Sharp_Seminar2_HomeTasks\Weekends\bin\Debug\net7.0\Weekends.exe
+C:\Users\User\Desktop\C-Sharp_Seminar2_HomeTasks\Weekends\bin\Debug\net7.0\Weekends.deps.json
+C:\Users\User\Desktop\C-Sharp_Seminar2_HomeTasks\Weekends\bin\Debug\net7.0\Weekends.runtimeconfig.json
+C:\Users\User\Desktop\C-Sharp_Seminar2_HomeTasks\Weekends\bin\Debug\net7.0\Weekends.dll
+C:\Users\User\Desktop\C-Sharp_Seminar2_HomeTasks\Weekends\bin\Debug\net7.0\Weekends.pdb
+C:\Users\User\Desktop\C-Sharp_Seminar2_HomeTasks\Weekends\obj\Debug\net7.0\Weekends.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C-Sharp_Seminar2_HomeTasks\Weekends\obj\Debug\net7.0\Weekends.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C-Sharp_Seminar2_HomeTasks\Weekends\obj\Debug\net7.0\Weekends.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C-Sharp_Seminar2_HomeTasks\Weekends\obj\Debug\net7.0\Weekends.AssemblyInfo.cs
+C:\Users\User\Desktop\C-Sharp_Seminar2_HomeTasks\Weekends\obj\Debug\net7.0\Weekends.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C-Sharp_Seminar2_HomeTasks\Weekends\obj\Debug\net7.0\Weekends.dll
+C:\Users\User\Desktop\C-Sharp_Seminar2_HomeTasks\Weekends\obj\Debug\net7.0\refint\Weekends.dll
+C:\Users\User\Desktop\C-Sharp_Seminar2_HomeTasks\Weekends\obj\Debug\net7.0\Weekends.pdb
+C:\Users\User\Desktop\C-Sharp_Seminar2_HomeTasks\Weekends\obj\Debug\net7.0\Weekends.genruntimeconfig.cache
+C:\Users\User\Desktop\C-Sharp_Seminar2_HomeTasks\Weekends\obj\Debug\net7.0\ref\Weekends.dll
