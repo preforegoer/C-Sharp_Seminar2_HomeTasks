@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C-Sharp_Seminar2_HomeTasks\Second digit\bin\Debug\net7.0\Second digit.exe
+C:\Users\User\Desktop\C-Sharp_Seminar2_HomeTasks\Second digit\bin\Debug\net7.0\Second digit.deps.json
+C:\Users\User\Desktop\C-Sharp_Seminar2_HomeTasks\Second digit\bin\Debug\net7.0\Second digit.runtimeconfig.json
+C:\Users\User\Desktop\C-Sharp_Seminar2_HomeTasks\Second digit\bin\Debug\net7.0\Second digit.dll
+C:\Users\User\Desktop\C-Sharp_Seminar2_HomeTasks\Second digit\bin\Debug\net7.0\Second digit.pdb
+C:\Users\User\Desktop\C-Sharp_Seminar2_HomeTasks\Second digit\obj\Debug\net7.0\Second digit.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C-Sharp_Seminar2_HomeTasks\Second digit\obj\Debug\net7.0\Second digit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C-Sharp_Seminar2_HomeTasks\Second digit\obj\Debug\net7.0\Second digit.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C-Sharp_Seminar2_HomeTasks\Second digit\obj\Debug\net7.0\Second digit.AssemblyInfo.cs
+C:\Users\User\Desktop\C-Sharp_Seminar2_HomeTasks\Second digit\obj\Debug\net7.0\Second digit.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C-Sharp_Seminar2_HomeTasks\Second digit\obj\Debug\net7.0\Second digit.dll
+C:\Users\User\Desktop\C-Sharp_Seminar2_HomeTasks\Second digit\obj\Debug\net7.0\refint\Second digit.dll
+C:\Users\User\Desktop\C-Sharp_Seminar2_HomeTasks\Second digit\obj\Debug\net7.0\Second digit.pdb
+C:\Users\User\Desktop\C-Sharp_Seminar2_HomeTasks\Second digit\obj\Debug\net7.0\Second digit.genruntimeconfig.cache
+C:\Users\User\Desktop\C-Sharp_Seminar2_HomeTasks\Second digit\obj\Debug\net7.0\ref\Second digit.dll
