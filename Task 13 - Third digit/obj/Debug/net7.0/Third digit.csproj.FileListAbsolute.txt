@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C-Sharp_Seminar2_HomeTasks\Third digit\bin\Debug\net7.0\Third digit.exe
+C:\Users\User\Desktop\C-Sharp_Seminar2_HomeTasks\Third digit\bin\Debug\net7.0\Third digit.deps.json
+C:\Users\User\Desktop\C-Sharp_Seminar2_HomeTasks\Third digit\bin\Debug\net7.0\Third digit.runtimeconfig.json
+C:\Users\User\Desktop\C-Sharp_Seminar2_HomeTasks\Third digit\bin\Debug\net7.0\Third digit.dll
+C:\Users\User\Desktop\C-Sharp_Seminar2_HomeTasks\Third digit\bin\Debug\net7.0\Third digit.pdb
+C:\Users\User\Desktop\C-Sharp_Seminar2_HomeTasks\Third digit\obj\Debug\net7.0\Third digit.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C-Sharp_Seminar2_HomeTasks\Third digit\obj\Debug\net7.0\Third digit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C-Sharp_Seminar2_HomeTasks\Third digit\obj\Debug\net7.0\Third digit.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C-Sharp_Seminar2_HomeTasks\Third digit\obj\Debug\net7.0\Third digit.AssemblyInfo.cs
+C:\Users\User\Desktop\C-Sharp_Seminar2_HomeTasks\Third digit\obj\Debug\net7.0\Third digit.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C-Sharp_Seminar2_HomeTasks\Third digit\obj\Debug\net7.0\Third digit.dll
+C:\Users\User\Desktop\C-Sharp_Seminar2_HomeTasks\Third digit\obj\Debug\net7.0\refint\Third digit.dll
+C:\Users\User\Desktop\C-Sharp_Seminar2_HomeTasks\Third digit\obj\Debug\net7.0\Third digit.pdb
+C:\Users\User\Desktop\C-Sharp_Seminar2_HomeTasks\Third digit\obj\Debug\net7.0\Third digit.genruntimeconfig.cache
+C:\Users\User\Desktop\C-Sharp_Seminar2_HomeTasks\Third digit\obj\Debug\net7.0\ref\Third digit.dll
